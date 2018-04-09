@@ -1,5 +1,5 @@
 # EDUS
-EDUS è un progetto per la gestione del servizio interno di prenotazione
+EDUS è un applicazione webica per la gestione del servizio interno di prenotazione
 degli sportelli tra pari
 
 ### Prerequisities
