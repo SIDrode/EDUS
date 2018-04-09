@@ -12,4 +12,4 @@ degli sportelli tra pari
 + HTML
 
 ### Authors
-Mirandola Giacomo, Rodeghero Luca, Squaranti Daniele, Zambelli Michele
+Mirandola Giacomo, Riccio Gionatan, Rodeghero Luca, Squaranti Daniele, Zambelli Michele
